@@ -1,0 +1,16 @@
+things to implement:
+  -front end look
+  -add "new to-do" button
+    -opens up sub-window
+    -name of task plus description input
+    -repeating task or one time (with due date)?
+    -makes a checkbox with name and description in your home(should make fun sounds and confetti when you check it off)
+  -streak counter completing all tasks
+  
+  
+  
+  -optional extension to download that prohibits you from accessing blacklisted sites while certain tasks are to-dos
+  -friend system + chat
+  -iphone + android app
+  
+things implemented:
